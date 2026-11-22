@@ -1,0 +1,15 @@
+{
+  "name": "mecanautos-api",
+  "version": "1.0.0",
+  "description": "API REST por capas para la gestión de turnos del taller automotriz MecanAutos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["express", "api-rest", "arquitectura-por-capas", "taller-automotriz"],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
